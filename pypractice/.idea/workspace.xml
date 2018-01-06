@@ -20,18 +20,18 @@
       <file leaf-file-name="pyGenerator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyGenerator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="221">
               <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample.ipynb">
+      <file leaf-file-name="pandasNotebook.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pandasNotebook.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="5" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -86,6 +86,7 @@
         <option value="$PROJECT_DIR$/pyMongoAssignment.py" />
         <option value="$PROJECT_DIR$/insertOne.py" />
         <option value="$PROJECT_DIR$/sample.ipynb" />
+        <option value="$PROJECT_DIR$/pandasNotebook.ipynb" />
       </list>
     </option>
   </component>
@@ -535,18 +536,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sample.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="221">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample.ipynb">
+    <entry file="file://$PROJECT_DIR$/pandasNotebook.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="6" />
         </state>
       </provider>
     </entry>
